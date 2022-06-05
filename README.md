@@ -1,2 +1,2 @@
 # Nodejs-Patikadev
- It is for homeworks of patika.dev
+ It is homeworks of patika.dev Nodejs Course
