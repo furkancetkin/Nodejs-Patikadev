@@ -1,2 +1,2 @@
 # Nodejs-Patikadev
- It is for my homeworks of patika.dev
+ It is for homeworks of patika.dev

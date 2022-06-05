@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-patikadev",
+  "version": "1.0.0",
+  "description": "It is for homeworks of patika.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkancetkin/Nodejs-Patikadev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkancetkin/Nodejs-Patikadev/issues"
+  },
+  "homepage": "https://github.com/furkancetkin/Nodejs-Patikadev#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
